@@ -13,3 +13,4 @@ The Logic App creates and uses a Managed System Identity (MSI) to search the Azu
 Assign RBAC 'Reader' role to the Logic App at the root Management Group level.
 Assign RBAC 'Network Contributor' role to the Logic App at the root Management Group level.
 Assign RBAC 'Virtual Machine Contributor' role to the Logic App at the root Management Group level.
+Assign RBAC 'Microsoft Sentinel Contributor' role to the Logic app at the root Management Group Level. 
